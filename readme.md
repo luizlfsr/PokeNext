@@ -1,0 +1,1 @@
+### projeto PokeNext desenvolvido em NextJs com typescript e tailwind
